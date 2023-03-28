@@ -59,6 +59,7 @@ def detect_differences(img1_path, img2_path, threshold=10, min_blob_size=0):
     plt.show()
 
 
+
 path1 = 'result.png'
 path2 = 'img\img5.png'
 detect_differences(path1, path2)
